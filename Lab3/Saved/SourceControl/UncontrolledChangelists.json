@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/OTU/OTU/GDW 4/Labs/Lab2/TutorialsGDW/Lab3/Content/BluePrints/BP_Turret.uasset",
+				"C:/OTU/OTU/GDW 4/Labs/Lab2/TutorialsGDW/Lab3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/W0/ZDQ55CGAGP4EW4299X679E.uasset",
+				"C:/OTU/OTU/GDW 4/Labs/Lab2/TutorialsGDW/Lab3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset",
+				"C:/OTU/OTU/GDW 4/Labs/Lab2/TutorialsGDW/Lab3/Content/BluePrints/MyFunctionLibrary.uasset"
+			]
+		}
+	]
+}
